@@ -1,10 +1,10 @@
 let data = [{
-      id: '148',
+      id: '0',
       name: {
-        first: 'Greg',
-        last: 'Johnson'
+        first: 'Leroy',
+        last: 'Bonventre'
       },
-      email: 'greg@example.com'
+      email: 'leroy@example.com'
     }];
 
 const newRowGen = () => ({
